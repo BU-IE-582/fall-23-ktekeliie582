@@ -5,9 +5,9 @@ You can use the [editor on GitHub](https://github.com/BU-IE-582/fall-23-ilaydace
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ```markdown
-Link for HW1 is provided below
+Link for HW1 is provided below.I had to provide a link with blob and main as the file size was too big for github to support.
 ```
-[Homework 1](https://github.io/fall-23-ktekeliie582/hw1(3).html)
+[Homework 1](https://github.com/BU-IE-582/fall-23-ktekeliie582/blob/main/hw1%20(3).html)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 

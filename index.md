@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ```markdown
 Link for HW1 is provided below
 ```
-[Homework 1](https://github.com/BU-IE-582/fall-23-ktekeliie582/hw1(3).html)
+[Homework 1](https://github.io/fall-23-ktekeliie582/hw1(3).html)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 

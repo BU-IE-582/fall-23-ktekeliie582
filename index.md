@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Link for HW1 is provided below.I had to provide a link with blob and main as the file size was too big for github to support.
 ```
 [Homework 1](https://github.com/BU-IE-582/fall-23-ktekeliie582/blob/main/hw1%20(3).html)
-
+            [hw_link](hw1 (3).html)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes

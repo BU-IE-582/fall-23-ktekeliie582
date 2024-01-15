@@ -19,7 +19,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Project
 [project code](IE_582_PROJECT_Kerem_Tekeli_2022702066-2.html)
-
+[project_report](ie_582_report_kerem_tekeli_2022702066.pdf)
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BU-IE-582/fall-23-ilaydacelenkk/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.

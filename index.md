@@ -17,6 +17,9 @@ You can reach the link in correct format from hw_link link..
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
+Project
+[project code](IE_582_PROJECT_Kerem_Tekeli_2022702066-2.html)
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BU-IE-582/fall-23-ilaydacelenkk/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
